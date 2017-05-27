@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 //2048!!!
+=======
+>>>>>>> 284e2ce95ee760847f0bc2e204a51f49807fec30
 #include<iostream>
 #include<conio.h>
 #include<iomanip>
